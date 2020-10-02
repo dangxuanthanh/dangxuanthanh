@@ -2,10 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangxuanthanh&label=Views&color=blue&style=plastic" alt="dangxuanthanh" /> </p>
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/dangxuanthanh">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/dangxuanthanh">
+<a href="https://www.facebook.com/dangxuanthanh.vn">
   <img align="left" alt="dangxuanthanh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com">
@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-[![GitHub iampawan](https://img.shields.io/github/followers/dangxuanthanh?label=follow&style=social)](https://github.com/dangxuanthanh)
+[![GitHub dangxuanthanh](https://img.shields.io/github/followers/dangxuanthanh?label=follow&style=social)](https://github.com/dangxuanthanh)
 
 
 **Languages and Tools:**  
