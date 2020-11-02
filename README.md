@@ -1,4 +1,4 @@
-## Éc, I'm Dang Xuan Thanh
+## I'm Dang Xuan Thanh
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangxuanthanh&label=Views&color=blue&style=plastic" alt="dangxuanthanh" /> </p>
 
